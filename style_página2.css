@@ -1,0 +1,33 @@
+/*El fondo no la imagen*/
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif; 
+}
+/*Imagen de fondo*/
+.imagen_prin{
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(campus.png);
+    display: flex;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+/*Toda la página*/
+.toda_la_página{
+    display: flex;
+}
+.unión{
+    display: flex;
+    font-size: 40px;
+}
+
+.imagen_central_de_izquierda{
+    align-items:baseline;
+    padding: 10px 10px;
+    width: 60px;
+    height: 60px;
+}
+
+img{
+    width: 20px;
+}

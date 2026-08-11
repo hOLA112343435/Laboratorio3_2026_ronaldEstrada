@@ -1,0 +1,147 @@
+/*Contenido general de la página*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin: 0;
+    color: #1F1F1F;
+}
+
+/*Los botones de la parte inferior*/
+.barr_inf{
+    float: inline-end;
+}
+
+.Los_primeros_botones{
+    background: white;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    padding: 10px 5px;
+}
+
+.Boton_especial_de_in{
+    color: white;
+    margin: 10px 10px;
+    padding: 13px 13px;
+    background-color:  #1B62D3;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.imagen_de_inicio{
+    width: 30px;
+    background: white;
+    border: none;
+    outline: none;
+    margin-top: 2px;
+    padding: 10px 5px;
+}
+
+/*Imagen de en medio de la página*/
+.alineacion_de_la_imagen_central{
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.Imagen_central_de_la_página{
+    width: 350px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 0 500px;
+    margin-right: 100px ;
+}
+
+/*la barrra de busqueda de la página*/
+
+.barra_busqueda{
+    background-color: rgb(255, 255, 255);
+    box-shadow:rgb(255, 255, 255) 20px 10px 20px 10px;
+    border: black 1px solid;
+    border-radius: 40px;
+    padding: 5px 5px;
+    margin: 1px 400px;
+}
+
+.barra{
+    width: 378px;
+    border: none;
+    outline: none;
+
+}
+
+.imagenes_cen_bar_busqueda{
+    outline: none;
+    border: none;
+    background: white;
+    width: 22px;
+    height: 22px;
+    padding: 0px;
+}
+
+.button_barra_busqueda{
+    border-radius: 40px;
+    outline: none;
+    border: none;
+    gap: 2px;
+}
+
+/*Botones de abajo de la barra de busqueda*/
+.Botones_abajo_de_la_barra_de_busqueda{
+    margin: 0px 535px;
+    padding: 10px;
+    gap: 10px;
+    & button{
+         margin-top: 5px;
+        background-color: #F8F9FA;
+        outline: none;
+        border: none;
+        padding: 10px;
+        border-radius: 10px;
+    }
+}
+
+.oracion_abajo_de_los_botones{
+    margin-top: 20px;
+    font-size: 13px;
+    text-align: center;
+    & a{
+        text-decoration: none;
+        font-weight: bold;
+    }
+}
+
+/*Parte Final*/
+.Pie_de_página{
+    padding-top: 77px;
+    position: fixed;
+}
+
+.parte_de_arriba{
+    background-color: #F8F9FA;
+    width: 2000px;
+    & p{
+        font-size: 13px;
+        padding: 20px 20px;
+        border-bottom: rgb(173, 165, 165) 1px solid;  
+    }
+}
+
+.parte_de_arriba1{
+    background-color: #F8F9FA;
+    width: 100%;
+    border-bottom: rgb(173, 165, 165) 1px solid;  
+    & td{
+        font-size: 13px;
+        margin: 20px 60px;
+        padding: 20px 20px;
+    }
+
+}
+
+/*Imaganes generales*/
+img{
+    width: 20px;
+}

@@ -1,0 +1,20 @@
+Logo pestaña
+https://www.campusvirtual.com.gt/images/Logotipo-Blanco-App.ico
+-------------------------------------------------------------------------------
+logo promoción
+https://www.campusvirtual.com.gt/images/app_promotion_v2.gif
+
+Fondo de promoción
+https://campusvirtual.com.gt/images/TexturaFondo/TexturaFondoLogin.svg
+
+Logo Campus
+https://www.campusvirtual.com.gt/images/Logo.png
+
+icono PlayStore
+https://www.campusvirtual.com.gt/images/App%20Badges/GetItOnGooglePlay_Badge_Web_color_Spanish.png
+
+icono App Store
+https://www.campusvirtual.com.gt/images/App%20Badges/Download_on_the_App_Store_Badge_ES_RGB_blk_100217.svg
+
+icono App gallery
+https://www.campusvirtual.com.gt/images/App%20Badges/ExploreItOnAppGallery_Badge_Black_Spanish.png
